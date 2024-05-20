@@ -6,4 +6,4 @@
 
 [Test cases for verification for Cart Management and Order Management](https://github.com/LRafaL/Web/blob/main/Web%20App%20Laura%20Rafalovich.pdf)
 
-
+[Defect report from YouTrack for the Cart, Payment and Checkout modules]( https://github.com/LRafaL/Web/blob/main/Defect%20report%20from%20YouTrack%20Cart%20Orders.xlsx)
